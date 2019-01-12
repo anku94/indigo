@@ -1,11 +1,11 @@
 # main text of home
 name: Ankush Jain
-bio: Research Fellow @ Microsoft Research
+bio: PhD Student @ Carnegie Mellon University
 
 # SEO
 author: Ankush Jain
-title: Personal website of Ankush Jain, Research Fellow at Microsoft Research India | Software Developer | IIIT Hyderabad | Directi
-description: Personal website of Ankush Jain, Research Fellow at Microsoft Research India | Software Developer | IIIT Hyderabad | Directi
+title: Personal website of Ankush Jain, Carnegie Mellon University | Research Fellow at Microsoft Research India | Directi | IIIT Hyderabad | Directi
+description: Personal website of Ankush Jain, PhD Student in Storage Systems at Carnegie Mellon University. Previously a Research Fellow at Microsoft Research India, Software Engineer at Directi, and an undergraduate at IIIT Hyderabad. From Patiala, India.
 
 # twitter summary info
 # description: Thoughts on tech, policy and memes
@@ -19,7 +19,7 @@ picture: assets/images/profile.jpg
 # and specify source (external or local).
 resume: true
 resume-external: true
-resume-url: https://web.iiit.ac.in/~ankush.jain/cv.pdf
+resume-url: https://web.iiit.ac.in/~ankush.jain/AnkushJain.pdf
 
 url: https://web.iiit.ac.in/~ankush.jain/_site
 # your url: http://USERNAME.github.io
@@ -27,7 +27,7 @@ url: https://web.iiit.ac.in/~ankush.jain/_site
 permalink: /:title/
 
 # To enable google analytics, supply your token below
-# analytics-google: 'UA-MYANALYTICS'
+analytics-google: 'UA-132355730-1'
 
 # To enable piwik tracking, supply your url & site ID below
 # analytics-piwik-url: 'piwik.my-host.com'
@@ -58,12 +58,12 @@ quora: Ankush-Jain-1
 # medium: medium
 # vimeo: myvimeo
 # lanyrd: mylanyrd
-email: anku p e r i o d 94 a t g-m-a-i-l d o t com
+email: <firstname>j@cmu.edu
 
 authors:
     anku94:
         name: Ankush Jain
-        bio: Research Fellow @ Microsoft Research
+        bio: PhD Student @ Carnegie Mellon University
         external-image: false
         picture: assets/images/profile.jpg
         twitter: schwifty50
